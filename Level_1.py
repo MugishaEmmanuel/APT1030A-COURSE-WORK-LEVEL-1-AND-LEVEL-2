@@ -6,7 +6,7 @@ password = "254Secure"
 username_input = input("Enter your Username: ")
 password_input = input("Enter your password: ")
 
-If username_input == username:
+if username_input == username:
     print("Access Granted")
 else:
     print("Invalid Credentials")
